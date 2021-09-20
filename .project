@@ -3,6 +3,7 @@
 	<name>LCD_TEST</name>
 	<comment></comment>
 	<projects>
+		<project>LCD_TEST</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
